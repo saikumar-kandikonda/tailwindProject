@@ -5,7 +5,7 @@ import Triple from "../assets/triple.jpg";
 
 function Cards() {
   return (
-    <div className="p-36 max-w-[1240px] my-auto md:flex justify-between items-center mx-auto">
+    <div className="p-12 md:p-36 max-w-[1240px] my-auto md:flex justify-between items-center mx-auto">
       {/* card1 */}
       <div className="card flex flex-col border mb-20 border-gray-200 w-full md:w-1/4   items-center rounded-md ease-in-out duration-100  hover:scale-110">
         <img
